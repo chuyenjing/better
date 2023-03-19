@@ -3,7 +3,7 @@ var txt = '抱歉 當機處理中' +'\n'+
     'sorry! we are solving problem...';
 var speed = 200;
 var images = new Array();
-images[0] = src ="https://stickershop.line-scdn.net/stickershop/v1/product/12012046/LINEStorePC/main.png";
+images[0] = "https://stickershop.line-scdn.net/stickershop/v1/product/12012046/LINEStorePC/main.png";
 images[1] = "https://stickershop.line-scdn.net/stickershop/v1/sticker/405711578/android/sticker.png";
 
 setTimeout("changeImage()", 2000);
